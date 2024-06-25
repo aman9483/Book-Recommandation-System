@@ -45,5 +45,5 @@ Imagine a user selects the book "1984" by George Orwell from a dropdown menu in 
 ---
 
 ## Links
-- [Live Application](https://book-recommendation-system.example.com/)
+- [Live Application](https://book-recommandation-system-cvin.onrender.com/)
 - [Source Code](https://github.com/aman9483/Book-Recommendation-System)
